@@ -7,5 +7,7 @@
         <item>Average Speed</item>
         <item>Calories Burned</item>
     </string-array>
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">ENTER YOUR API KEY HERE</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD1zNEAWVOEOrNTtJQIX_sr6CWoeSydTYI</string>
+
+    <string name="permission_message">You need to accept location permissions to use this app.</string>
 </resources>
